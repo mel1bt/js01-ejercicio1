@@ -10,4 +10,4 @@
 
 ##Diagrama de Flujo de Datos
 
-![Sin titulo](https://files.slack.com/files-pri/T0NNB6T0R-F253K9PSN/img_20160825_145612.jpg)
+![Sin titulo](http://i68.tinypic.com/2v0kcc2.jpg )
